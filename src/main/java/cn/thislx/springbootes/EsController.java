@@ -42,6 +42,7 @@ public class EsController {
 
     /**
      * http://127.0.0.1:8080/es/createIndex
+     * http://192.168.69.110:8080/es/createIndex
      * 创建索引
      *
      * @param request
